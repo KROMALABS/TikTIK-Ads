@@ -1,0 +1,12 @@
+Página de vendas com VSL ativa e oferta ajustada para R$ 19,90.
+
+Como hospedar no GitHub Pages:
+1. Crie um repositório no GitHub.
+2. Envie o arquivo index.html e a pasta assets inteira.
+3. Vá em Settings > Pages.
+4. Em Branch, selecione main e /root.
+5. Salve e aguarde o link do GitHub Pages aparecer.
+
+Importante:
+- Não apague a pasta assets. A VSL está em assets/vsl-tiktok.mp4.
+- Troque SEU_LINK_CHECKOUT pelo link real do checkout/Hotmart dentro do index.html.
